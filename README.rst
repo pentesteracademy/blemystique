@@ -32,6 +32,8 @@ Tool featured at
 - Blackhat Arsenal 2018 <https://www.blackhat.com/us-18/arsenal/schedule/#blemystique-affordable-custom-ble-target-12033>
 - DEF CON 26 Demolabs <https://defcon.org/html/defcon-26/dc-26-demolabs.html>
 
+Demo videos: https://www.youtube.com/watch?v=21WIxc1uCMA&list=PLPImreb0jV3Cxcja-Ox-fqT_NLU0dviIx
+
 #######
 Author
 #######
